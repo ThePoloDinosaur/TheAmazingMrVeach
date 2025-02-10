@@ -22,17 +22,28 @@ Dr. Lush Locks – The villainous leader of H.A.I.R., determined to end bald her
 
 The Bald Brotherhood – A global alliance of legendary bald warriors.
 
+???-???
+
+???-???
+
+???-???
+
+???-???
+
+???-???
+
 Project Details
 
-Format: Novel-style story (~100 pages planned)
+Format: Novel-style story 77 Chapters
 
 Genre: Comedy, Action, Superhero Parody
 
 Current Status: In Progress
 
-Created by: [Your Name or GitHub Username]
+Created by: ThePoloDinosaur
 
 Contributing
+ChatGPT
 
 Have ideas for new bald superpowers or villains? Open an issue or submit a pull request!
 
