@@ -49,6 +49,6 @@ Have ideas for new bald superpowers or villains? Open an issue or submit a pull 
 
 License
 
-This project is open-source. Feel free to read, share, and contribute!
+In Licence folder.
 
 "Because sometimes, the smoothest heads carry the greatest responsibilities."
