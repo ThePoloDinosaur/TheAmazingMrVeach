@@ -38,7 +38,7 @@ Format: Novel-style story 77 Chapters
 
 Genre: Comedy, Action, Superhero Parody
 
-Current Status: In Progress
+Current Status: Finished!👌
 
 Created by: ThePoloDinosaur
 
